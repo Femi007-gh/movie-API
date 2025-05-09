@@ -2,7 +2,7 @@ const movieTitles = [
   "Inception", "Spider-Man: Homecoming", "The Avengers", "Titanic",
   "The Matrix", "Frozen", "Avatar", "Toy Story",
   "Black Panther", "Joker", "Naruto", "Bleach",
-  "One Piece", "Weathering with You", "Spirited Away", "Attack on Titan",
+  "One Piece", "Your Name", "Spirited Away", "Attack on Titan",
   "Death Note", "My Hero Academia", "Demon Slayer: Kimetsu no Yaiba", "Dragon Ball Z"
 ];
 
