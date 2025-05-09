@@ -1,9 +1,9 @@
 const movieTitles = [
-  "Infinity war", "Spider-Man: Homecoming", "Blue beetle", "Venom: The last dance",
-  "Sakamoto days", "Fire force", "Avatar", "yu gi oh!",
-  "Black Panther", "Joker", "Wind breaker", "Chainsaw man",
-  "Fairy tail", "Jujutsu kaisen 0", "squid game", "Attack on Titan",
-  "Death Note", "My Hero Academia: Heroes rising", "Demon Slayer: Kimetsu no Yaiba", "Dragon Ball Super "
+  "Inception", "Spider-Man: Homecoming", "The Avengers", "Titanic",
+  "The Matrix", "Frozen", "Avatar", "yu gi oh!",
+  "Black Panther", "Joker", "Naruto", "Bleach",
+  "One Piece", "Weathering with You", "squid game", "Attack on Titan",
+  "Death Note", "My Hero Academia", "Demon Slayer: Kimetsu no Yaiba", "Dragon Ball Super  "
 ];
 
 const moviesGrid = document.getElementById("MoviesGrid");

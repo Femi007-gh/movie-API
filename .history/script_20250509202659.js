@@ -1,8 +1,8 @@
 const movieTitles = [
-  "Infinity war", "Spider-Man: Homecoming", "Blue beetle", "Venom: The last dance",
-  "Sakamoto days", "Fire force", "Avatar", "yu gi oh!",
-  "Black Panther", "Joker", "Wind breaker", "Chainsaw man",
-  "Fairy tail", "Jujutsu kaisen 0", "squid game", "Attack on Titan",
+  "", "Spider-Man: Homecoming", "The Avengers", "Titanic",
+  "The Matrix", "Fire force", "Avatar", "yu gi oh!",
+  "Black Panther", "Joker", "Black clover", "Chainsaw man",
+  "F", "Jujutsu kaisen 0", "squid game", "Attack on Titan",
   "Death Note", "My Hero Academia: Heroes rising", "Demon Slayer: Kimetsu no Yaiba", "Dragon Ball Super "
 ];
 
