@@ -1,0 +1,25 @@
+#Pagination {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#Pagination button {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#Pagination button:hover {
+  background-color: darkgreen;
+}
+
+#pageInfo {
+  font-size: 1.1rem;
+  font-weight: bold;
+}

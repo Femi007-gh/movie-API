@@ -2,7 +2,7 @@ const movieTitles = [
   "Avengers: Endgame", "Spider-Man: No Way Home", "The Batman", "Guardians of the Galaxy Vol. 3",
   "Doctor Strange in the Multiverse of Madness", "Black Panther: Wakanda Forever", "The Flash", "Shazam! Fury of the Gods",
   "Demon Slayer: Mugen Train", "Jujutsu Kaisen 0", "Naruto Shippuden the Movie", "Bleach: Hell Verse",
-  "Attack on Titan", "One Piece Film: Red", "My Hero Academia: Heroes Rising", "Blue lock",
+  "Attack on Titan", "One Piece Film: Red", "My Hero Academia: Heroes Rising", "Your Name",
   "Suzume", "Weathering With You", "A Whisker Away", "I Want to Eat Your Pancreas"
 ];
 

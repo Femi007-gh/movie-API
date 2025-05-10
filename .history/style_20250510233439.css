@@ -33,7 +33,7 @@ button {
 
 #MoviesGrid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 20px;
   padding: 20px;
   max-width: 1200px;
@@ -90,4 +90,30 @@ button {
 #pageInfo {
   font-size: 1.1rem;
   font-weight: bold;
+}
+
+.movie-card {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.movie-card:hover {
+  transform: scale(1.03);
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-bottom: 1px solid #eee;
+}
+
+.movie-info {
+  padding: 10px;
+  font-size: 0.95rem;
+  color: #333;
 }
